@@ -54,8 +54,10 @@ https://github.com/zhmt/TileZone/releases/download/0.1.0/TileZone0.1.0.apk
 2. qq网友: 橙子先生 , 给予的blender支持
 
 ## 游戏截图
+![微信图片_20221110162537](https://user-images.githubusercontent.com/1539646/201039309-b7107a5c-39db-4fe2-94f1-cd27c9c502a0.png)
+![微信图片_20221110162243](https://user-images.githubusercontent.com/1539646/201039842-e886bf62-8305-418c-be3c-db9fdc90c5af.jpg)
+![微信图片_20221110162250](https://user-images.githubusercontent.com/1539646/201039907-1aeea9ba-163f-4803-a38d-65857398609f.jpg)
 
-![微信图片_20221110162236](https://user-images.githubusercontent.com/1539646/201038706-89b6a9ff-a680-4256-8bfd-18014cdbe1ee.jpg)
-![微信图片_20221110162243](https://user-images.githubusercontent.com/1539646/201038807-f231b616-4dbe-419f-a76e-5a7399407470.jpg)
-![微信图片_20221110162250](https://user-images.githubusercontent.com/1539646/201038860-270bcaab-b338-415c-afa3-4efe90bf8083.jpg)
+
+
 
