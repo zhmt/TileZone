@@ -5,7 +5,7 @@
 
 游戏处于早期测试阶段, 很可能不稳定, 请大家多多包涵. 遇到问题, 尽管在 "Iusses" 中提出, 我会修复.
 
-##下载连接:
+## 下载连接:
 https://github.com/zhmt/TileZone/releases/download/0.1.0/TileZone0.1.0.apk
 
 ## 运行需求
