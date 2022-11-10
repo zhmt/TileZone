@@ -49,5 +49,5 @@ https://github.com/zhmt/TileZone/releases/download/0.1.0/TileZone0.1.0.apk
 不想背着历史的包袱, 去平衡过多的装备. 也不想浪费服务器资源, 网游的服务器资源需求比暗黑3要高很多.
 
 ## 感谢
-1. 张俊 : 给予我的鼓励和支持
+1. 张俊 : 给予的鼓励和支持
 2. qq网友: 橙子先生 , 给予的blender支持
