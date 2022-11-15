@@ -7,7 +7,7 @@
 有qq的朋友可以加入群:781628075
 
 ## 下载连接:
-1. https://github.com/zhmt/TileZone/releases/download/0.1.3/TileZone0.1.3.apk
+1. https://github.com/zhmt/TileZone/releases/download/0.1.4/TileZone0.1.4.apk
 2. qq群里下载
 
 ## 运行需求
